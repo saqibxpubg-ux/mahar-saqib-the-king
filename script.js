@@ -1,0 +1,1 @@
+alert(" be care full from mahar saqib ")
